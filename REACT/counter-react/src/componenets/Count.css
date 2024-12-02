@@ -1,0 +1,32 @@
+.count {
+    height: 50vh;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    gap: 1rem;
+}
+
+.value {
+    font-size: 3rem;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+}
+
+.btn1 {
+    margin: 5px 5px;
+    height: 2rem;
+    width: 4rem;
+    background-color: rgb(142, 215, 137);
+}
+
+
+input {
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+}

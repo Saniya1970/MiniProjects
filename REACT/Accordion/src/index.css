@@ -1,0 +1,11 @@
+.main {
+    max-width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px auto;
+}
+
+.main-question {
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+}

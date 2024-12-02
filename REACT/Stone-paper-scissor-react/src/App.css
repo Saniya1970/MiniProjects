@@ -1,0 +1,42 @@
+.main {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+img {
+    border-radius: 50%;
+    height: 25vmin;
+    width: 25vmin;
+    object-fit: cover;
+    object-position: center;
+    border: 2px solid black;
+
+}
+
+.box1 {
+    margin: 2rem;
+    height: 27vmin;
+    width: 27vmin;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.box1:hover {
+    background-color: rgb(28, 28, 105);
+    cursor: pointer;
+}
+
+.msg-container {
+    font-size: 30px;
+}

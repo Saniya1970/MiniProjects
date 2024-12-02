@@ -1,0 +1,18 @@
+h2,
+h3 {
+  cursor: pointer;
+  user-select: none;
+}
+
+h2:hover,
+h3:hover {
+  color: #007bff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
